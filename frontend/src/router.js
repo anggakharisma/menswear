@@ -12,7 +12,7 @@ import userHome from './views/User/Home';
 Vue.use(Router)
 
 export default new Router({
-  base: process.env.NODE_ENV === 'production' ? '/menswear-front/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/menswear/' : '/',
   linkExactActiveClass: 'active',
   mode: 'history',
   routes: [

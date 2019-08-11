@@ -2,7 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
 import MessageBox from './views/MessageBox';
-// import Cookie from 'js-cookie';
+import cookie from 'js-cookie';
 import Crypto from 'crypto';
 import _ from 'lodash';
 import vClickOutSide from 'v-click-outside';
