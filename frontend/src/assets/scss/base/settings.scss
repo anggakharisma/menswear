@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body,
+html {
+  height: 100%;
+}
+
+#app {
+  height: 100%;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background: $white;
+}
+
+.full-height {
+  min-height: 100%;
+}
+
+img {
+  max-width: 100%;
+}

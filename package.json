@@ -1,0 +1,14 @@
+{
+  "name": "menswear",
+  "version": "1.0.0",
+  "description": "Menswear ecommerce website",
+  "main": "index.js",
+  "scripts": {
+    "frontend-deploy": "gh-pages -d frontend/dist"
+  },
+  "author": "Angga Kharisma",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}

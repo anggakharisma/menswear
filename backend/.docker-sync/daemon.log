@@ -1,0 +1,18 @@
+     command  docker volume create --opt type=none --opt device="/media/data/Web/sample/back-end/menswear" --opt o=bind --name appcode
+     success  Docker volume for appcode created
+     success  Watcher disabled by configuration
+     command  docker volume create --opt type=none --opt device="/media/data/Web/sample/back-end/menswear" --opt o=bind --name appcode
+     success  Docker volume for appcode created
+     success  Watcher disabled by configuration
+     command  docker volume create --opt type=none --opt device="/media/data/Web/sample/back-end/menswear" --opt o=bind --name appcode
+     success  Docker volume for appcode created
+     success  Watcher disabled by configuration
+     command  docker volume create --opt type=none --opt device="/media/data/Web/sample/back-end/menswear" --opt o=bind --name appcode
+     success  Docker volume for appcode created
+     success  Watcher disabled by configuration
+     command  docker volume create --opt type=none --opt device="/media/data/Web/sample/back-end/menswear" --opt o=bind --name appcode
+     success  Docker volume for appcode created
+     success  Watcher disabled by configuration
+     command  docker volume create --opt type=none --opt device="/media/data/Web/sample/back-end/menswear" --opt o=bind --name appcode
+     success  Docker volume for appcode created
+     success  Watcher disabled by configuration
